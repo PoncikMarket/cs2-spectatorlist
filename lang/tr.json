@@ -1,0 +1,13 @@
+{
+  "Opened": "Açıldı!",
+  "Closed": "Kapandı!",
+  "NamesOpen": "İsimler açıldı!",
+  "NamesClosed": "İsimler kapandı!",
+  "SettingsOpened": "Ayarlar açıldı!",
+  "SettingsMenu": "İzleyici Ayarları",
+  "ShowNames": "İsimleri Göster",
+  "HideNames": "İsimleri Gizle",
+  "Watchers": "{0} kişi seni izliyor: {1}",
+  "NoWatchers": "Seni izleyen yok!",
+  "Watching": "{0} kişi izliyor"
+}

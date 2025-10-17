@@ -1,0 +1,13 @@
+{
+  "Opened": "Opened!",
+  "Closed": "Closed!",
+  "NamesOpen": "Names enabled!",
+  "NamesClosed": "Names disabled!",
+  "SettingsOpened": "Settings opened!",
+  "SettingsMenu": "Spectator Settings",
+  "ShowNames": "Show Names",
+  "HideNames": "Hide Names",
+  "Watchers": "{0} players are watching you: {1}",
+  "NoWatchers": "No one is watching you!",
+  "Watching": "{0} players are watching"
+}
